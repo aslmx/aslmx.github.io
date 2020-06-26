@@ -26,3 +26,7 @@ Aslmx always says
 > Nach fest kommt kaputt!
 > Nichts hälter länger als das Provisorium!
 > Nichts ist so beständig wie die Veränderung!
+
+## A picture of a muliplexer
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Telephony_multiplexer_system.gif">
