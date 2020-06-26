@@ -18,3 +18,11 @@ A non exhaustive list of stuff Aslmx likes furhtermore
 * Travelling
 * good Music with a lot of guitar
 * Sweet potatoes
+
+## Quotes by Aslmx
+
+Aslmx always says
+
+> Nach fest kommt kaputt!
+> Nichts hälter länger als das Provisorium!
+> Nichts ist so beständig wie die Veränderung!
